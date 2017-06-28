@@ -1,1 +1,0 @@
-Hello dll_getReplaceStr

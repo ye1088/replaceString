@@ -1,0 +1,6 @@
+D:\tools\code\replaceString\replaceString\replaceString\bin\Debug\replaceString.exe.config
+D:\tools\code\replaceString\replaceString\replaceString\bin\Debug\replaceString.exe
+D:\tools\code\replaceString\replaceString\replaceString\bin\Debug\replaceString.pdb
+D:\tools\code\replaceString\replaceString\replaceString\obj\Debug\replaceString.csprojResolveAssemblyReference.cache
+D:\tools\code\replaceString\replaceString\replaceString\obj\Debug\replaceString.exe
+D:\tools\code\replaceString\replaceString\replaceString\obj\Debug\replaceString.pdb
