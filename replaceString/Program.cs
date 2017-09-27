@@ -10,7 +10,7 @@ namespace replaceString
     {
         static void Main(string[] args)
         {
-            String hehe = "MaxSience";
+            String hehe = "COMMON品质";
             Console.WriteLine(getReplaceStr(hehe));
             Console.ReadLine();
         }
@@ -18,14 +18,12 @@ namespace replaceString
         {
             //String[] strList = { "Taxes,Population,Food,Minig,Science,Weapon,Wonder,MaxSience" };
             Dictionary<String, String> dict = new Dictionary<string, string>();
-            dict.Add("Taxes", "税收");
-            dict.Add("Population", "人口");
-            dict.Add("Food", "食物");
-            dict.Add("Minig", "采矿");
-            dict.Add("Science", "科技");
-            dict.Add("Weapon", "武器");
-            dict.Add("Wonder", "奇迹");
-            dict.Add("MaxSience", "科学上限");
+            dict.Add("COMMON品质", "普通品质");
+            dict.Add("FESTIVE品质", "FESTIVE品质");
+            dict.Add("LEGENDARY品质", "传奇品质");
+            dict.Add("MEGA品质", "极品品质");
+            dict.Add("RARE品质", "稀有品质");
+          
             if (dict.ContainsKey(src_str))
             {
                 return dict[src_str];
